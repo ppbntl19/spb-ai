@@ -1,0 +1,8 @@
+{
+  "name": "S.P.B. & Co. - Practicing Cost Accountants",
+  "description": "Professional web application for S.P.B. & Co., led by FCMA Sunder Prakash Budkoti. Specializing in Cost Audit, Management Consulting, and Financial Strategy.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
